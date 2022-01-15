@@ -20,7 +20,7 @@
     "johnnyfive": "^1.0.0",
     "onoff": "^4.1.1",
     "raspi-io": "^10.0.1",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "socket.io-client": "^2.2.0"
   }
 }
